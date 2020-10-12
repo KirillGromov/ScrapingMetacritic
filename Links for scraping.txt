@@ -1,0 +1,3 @@
+Movies this year - https://www.metacritic.com/browse/movies/score/metascore/year/filtered
+
+Movies all time - https://www.metacritic.com/browse/movies/score/metascore/all/filtered?sort=desc
