@@ -36,3 +36,13 @@ def play_parser(URL):
 
     log.logging.info(f'Last film:  {last_film}')
     return 1
+
+
+def main():
+    URL = input('Введите ссылку на сайт с фильмами: ')
+    URL = URL.strip()
+    log.logging.info(f'Programm started')
+    play_parser(URL)
+    log.logging.info(f'Programm exit')
+
+main()
